@@ -29,10 +29,6 @@ var routes = core.Routes{
 	},
 }
 
-// @title Go Scope based access control
-// @version 1.0
-// @description Example Go access control for a REST API
-// @basePath /api/v1
 func main() {
 	log.Println("setting up api server")
 
